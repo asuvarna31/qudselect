@@ -1,4 +1,5 @@
 ## QUDSELECT: Selective Decoding for Questions Under Discussion Parsing
+![Workflow of QUDSELECT](https://github.com/asuvarna31/qudselect/blob/main/workflow.jpg)
 ## QUD Parser Training & Decoding
 The files are under `single_joint_model/'.
 ### Setup
