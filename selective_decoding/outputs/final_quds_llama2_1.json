@@ -1,0 +1,2816 @@
+[
+  {
+    "article_id": "0901",
+    "answer_id": "02",
+    "score": 0.18244647979736328,
+    "anchor_id": "01",
+    "question": "How long will it take for the water to be safe to drink?"
+  },
+  {
+    "article_id": "0901",
+    "answer_id": "03",
+    "score": 0.9184753894805908,
+    "anchor_id": "02",
+    "question": "What did officials say about the water?"
+  },
+  {
+    "article_id": "0901",
+    "answer_id": "04",
+    "score": -0.06720827685462105,
+    "anchor_id": "03",
+    "question": "What did Wanda Blake say about the water?"
+  },
+  {
+    "article_id": "0901",
+    "answer_id": "05",
+    "score": 0.35537654161453247,
+    "anchor_id": "04",
+    "question": "How many people have been able to use water?"
+  },
+  {
+    "article_id": "0901",
+    "answer_id": "06",
+    "score": 0.2512499292691548,
+    "anchor_id": "01",
+    "question": "How many people were affected by the spill?"
+  },
+  {
+    "article_id": "0901",
+    "answer_id": "07",
+    "score": 0.22212537129720045,
+    "anchor_id": "01",
+    "question": "What were the effects of the water crisis?"
+  },
+  {
+    "article_id": "0901",
+    "answer_id": "08",
+    "score": 0.008216281731923458,
+    "anchor_id": "07",
+    "question": "What did the officials say people should do with the water?"
+  },
+  {
+    "article_id": "0901",
+    "answer_id": "09",
+    "score": 0.39863137404123944,
+    "anchor_id": "08",
+    "question": "What else was affected by the water crisis?"
+  },
+  {
+    "article_id": "0901",
+    "answer_id": "10",
+    "score": -0.2032078504562378,
+    "anchor_id": "01",
+    "question": "What was the situation in Charleston?"
+  },
+  {
+    "article_id": "0901",
+    "answer_id": "11",
+    "score": 0.22454496224721265,
+    "anchor_id": "01",
+    "question": "How did the water crisis affect the rest of the city?"
+  },
+  {
+    "article_id": "0901",
+    "answer_id": "12",
+    "score": 0.40691161155700684,
+    "anchor_id": "11",
+    "question": "What are the businesses that are suing?"
+  },
+  {
+    "article_id": "0901",
+    "answer_id": "13",
+    "score": -0.395185649394989,
+    "anchor_id": "01",
+    "question": "What else is happening in Charleston?"
+  },
+  {
+    "article_id": "0901",
+    "answer_id": "14",
+    "score": 0.47447840372721356,
+    "anchor_id": "13",
+    "question": "How many cases of water were given away?"
+  },
+  {
+    "article_id": "0901",
+    "answer_id": "15",
+    "score": 0.5264308452606201,
+    "anchor_id": "14",
+    "question": "How did they give away the water?"
+  },
+  {
+    "article_id": "0901",
+    "answer_id": "16",
+    "score": -0.020743542247348312,
+    "anchor_id": "15",
+    "question": "What was the situation like inside the station?"
+  },
+  {
+    "article_id": "0901",
+    "answer_id": "17",
+    "score": 0.19611545403798414,
+    "anchor_id": "01",
+    "question": "How many people were affected by the water crisis?"
+  },
+  {
+    "article_id": "0901",
+    "answer_id": "18",
+    "score": 0.4853050112724304,
+    "anchor_id": "17",
+    "question": "How did he feel about the water?"
+  },
+  {
+    "article_id": "0901",
+    "answer_id": "19",
+    "score": 0.3075264096260071,
+    "anchor_id": "18",
+    "question": "How did he feel after taking a shower?"
+  },
+  {
+    "article_id": "0901",
+    "answer_id": "20",
+    "score": 0.044849276542663574,
+    "anchor_id": "18",
+    "question": "What happened after he took a shower?"
+  },
+  {
+    "article_id": "0902",
+    "answer_id": "02",
+    "score": -0.25339627265930176,
+    "anchor_id": "01",
+    "question": "What was the purpose of the American Hollywood Film Orchestra's tour of China?"
+  },
+  {
+    "article_id": "0902",
+    "answer_id": "03",
+    "score": 0.502130369345347,
+    "anchor_id": "02",
+    "question": "What are the American minstrels doing on their winter tour?"
+  },
+  {
+    "article_id": "0902",
+    "answer_id": "04",
+    "score": -0.22981542348861694,
+    "anchor_id": "03",
+    "question": "How do they transport their instruments?"
+  },
+  {
+    "article_id": "0902",
+    "answer_id": "05",
+    "score": 0.01803690195083618,
+    "anchor_id": "04",
+    "question": "What happened to the instruments?"
+  },
+  {
+    "article_id": "0902",
+    "answer_id": "06",
+    "score": -0.07747578620910645,
+    "anchor_id": "05",
+    "question": "What was the reaction of the percussionist?"
+  },
+  {
+    "article_id": "0902",
+    "answer_id": "07",
+    "score": -0.31383854150772095,
+    "anchor_id": "06",
+    "question": "What did Chris Nolan say?"
+  },
+  {
+    "article_id": "0902",
+    "answer_id": "08",
+    "score": -0.17138952016830444,
+    "anchor_id": "07",
+    "question": "What did the stagehands do?"
+  },
+  {
+    "article_id": "0902",
+    "answer_id": "09",
+    "score": 0.3691118359565735,
+    "anchor_id": "08",
+    "question": "What did the stagehands do?"
+  },
+  {
+    "article_id": "0902",
+    "answer_id": "10",
+    "score": 0.6050249497095743,
+    "anchor_id": "07",
+    "question": "What did Nolan do to fix the drum kit?"
+  },
+  {
+    "article_id": "0902",
+    "answer_id": "11",
+    "score": -0.14477109909057617,
+    "anchor_id": "10",
+    "question": "What was the first song played?"
+  },
+  {
+    "article_id": "0902",
+    "answer_id": "12",
+    "score": -0.024166464805603027,
+    "anchor_id": "10",
+    "question": "What was the Oscar connection?"
+  },
+  {
+    "article_id": "0902",
+    "answer_id": "13",
+    "score": -0.06784945726394653,
+    "anchor_id": "01",
+    "question": "What is the reason for the orchestra's grueling schedule?"
+  },
+  {
+    "article_id": "0902",
+    "answer_id": "14",
+    "score": 0.47416988724753967,
+    "anchor_id": "13",
+    "question": "How many orchestras have toured China?"
+  },
+  {
+    "article_id": "0902",
+    "answer_id": "15",
+    "score": -0.3892289400100708,
+    "anchor_id": "01",
+    "question": "What is the name of the group?"
+  },
+  {
+    "article_id": "0902",
+    "answer_id": "16",
+    "score": 0.09648581345876062,
+    "anchor_id": "15",
+    "question": "How is the group assembled?"
+  },
+  {
+    "article_id": "0902",
+    "answer_id": "17",
+    "score": 0.5718059659004211,
+    "anchor_id": "16",
+    "question": "Who are the musicians?"
+  },
+  {
+    "article_id": "0902",
+    "answer_id": "18",
+    "score": 0.09543948823755433,
+    "anchor_id": "17",
+    "question": "What does Charpie think of the name of the group?"
+  },
+  {
+    "article_id": "0902",
+    "answer_id": "19",
+    "score": 0.2844434380531311,
+    "anchor_id": "01",
+    "question": "How old are the performers?"
+  },
+  {
+    "article_id": "0902",
+    "answer_id": "20",
+    "score": 0.8033793237474229,
+    "anchor_id": "19",
+    "question": "How do the performers feel about their tour?"
+  },
+  {
+    "article_id": "0903",
+    "answer_id": "02",
+    "score": -0.12864917516708374,
+    "anchor_id": "01",
+    "question": "How do scientists track sharks?"
+  },
+  {
+    "article_id": "0903",
+    "answer_id": "03",
+    "score": 0.8426485657691956,
+    "anchor_id": "02",
+    "question": "How does this help scientists?"
+  },
+  {
+    "article_id": "0903",
+    "answer_id": "04",
+    "score": 0.2847581054225112,
+    "anchor_id": "03",
+    "question": "How do the new tags compare to the old ones?"
+  },
+  {
+    "article_id": "0903",
+    "answer_id": "05",
+    "score": 0.5808420896530151,
+    "anchor_id": "04",
+    "question": "How does the new tag compare to a smartphone?"
+  },
+  {
+    "article_id": "0903",
+    "answer_id": "06",
+    "score": -0.1567469835281372,
+    "anchor_id": "01",
+    "question": "What is the purpose of the research?"
+  },
+  {
+    "article_id": "0903",
+    "answer_id": "07",
+    "score": 0.3833070993423462,
+    "anchor_id": "06",
+    "question": "What is the goal of tracking the species?"
+  },
+  {
+    "article_id": "0903",
+    "answer_id": "08",
+    "score": 0.1537274718284607,
+    "anchor_id": "07",
+    "question": "Why is it important to study sharks?"
+  },
+  {
+    "article_id": "0903",
+    "answer_id": "09",
+    "score": 0.2836074233055115,
+    "anchor_id": "06",
+    "question": "What have researchers learned from tracking sharks?"
+  },
+  {
+    "article_id": "0903",
+    "answer_id": "10",
+    "score": 0.30345950524012244,
+    "anchor_id": "09",
+    "question": "What are the sharks doing?"
+  },
+  {
+    "article_id": "0903",
+    "answer_id": "11",
+    "score": 1.0229072769482932,
+    "anchor_id": "09",
+    "question": "What else have we learned from tagging sharks?"
+  },
+  {
+    "article_id": "0903",
+    "answer_id": "12",
+    "score": -0.11617153882980347,
+    "anchor_id": "01",
+    "question": "How many research agencies are using the solar tags?"
+  },
+  {
+    "article_id": "0903",
+    "answer_id": "13",
+    "score": -0.03489153725760319,
+    "anchor_id": "12",
+    "question": "What are some of the other things that the tags are used for?"
+  },
+  {
+    "article_id": "0903",
+    "answer_id": "14",
+    "score": -0.013195140021187934,
+    "anchor_id": "13",
+    "question": "How successful are the solar tags?"
+  },
+  {
+    "article_id": "0903",
+    "answer_id": "15",
+    "score": 0.43845042917463517,
+    "anchor_id": "14",
+    "question": "How many agencies are using the solar tags?"
+  },
+  {
+    "article_id": "0903",
+    "answer_id": "16",
+    "score": -0.15873640775680542,
+    "anchor_id": "01",
+    "question": "How do the tags work?"
+  },
+  {
+    "article_id": "0903",
+    "answer_id": "17",
+    "score": -0.20313549041748047,
+    "anchor_id": "01",
+    "question": "How is the data transmitted?"
+  },
+  {
+    "article_id": "0903",
+    "answer_id": "18",
+    "score": 0.029693913459777788,
+    "anchor_id": "17",
+    "question": "How long does the tag stay on the shark?"
+  },
+  {
+    "article_id": "0903",
+    "answer_id": "19",
+    "score": 0.35939228534698486,
+    "anchor_id": "18",
+    "question": "What happens to the tags after they run out of power?"
+  },
+  {
+    "article_id": "0903",
+    "answer_id": "20",
+    "score": 0.409304506248898,
+    "anchor_id": "19",
+    "question": "What happens to the tag after it detaches?"
+  },
+  {
+    "article_id": "0905",
+    "answer_id": "02",
+    "score": -0.432062566280365,
+    "anchor_id": "01",
+    "question": "What is the situation with adolescents?"
+  },
+  {
+    "article_id": "0905",
+    "answer_id": "03",
+    "score": 0.42061513662338257,
+    "anchor_id": "02",
+    "question": "What is the situation with adolescents from poorer families?"
+  },
+  {
+    "article_id": "0905",
+    "answer_id": "04",
+    "score": -0.07420011758804324,
+    "anchor_id": "02",
+    "question": "What is the current situation of obesity among adolescents?"
+  },
+  {
+    "article_id": "0905",
+    "answer_id": "05",
+    "score": 1.0065920750300088,
+    "anchor_id": "03",
+    "question": "What is the trend of obesity among teenagers from poorer families?"
+  },
+  {
+    "article_id": "0905",
+    "answer_id": "06",
+    "score": 0.7256237188975015,
+    "anchor_id": "05",
+    "question": "What happened to the obesity rates of teenagers whose parents have a college degree?"
+  },
+  {
+    "article_id": "0905",
+    "answer_id": "07",
+    "score": 0.11873789344515118,
+    "anchor_id": "06",
+    "question": "What does the study say about the relationship between parental education and obesity?"
+  },
+  {
+    "article_id": "0905",
+    "answer_id": "08",
+    "score": -0.1434739291667938,
+    "anchor_id": "07",
+    "question": "What about younger children?"
+  },
+  {
+    "article_id": "0905",
+    "answer_id": "09",
+    "score": 0.8242208942388877,
+    "anchor_id": "08",
+    "question": "What was the class gap like for children ages 11 to 19?"
+  },
+  {
+    "article_id": "0905",
+    "answer_id": "10",
+    "score": 0.02138519287109375,
+    "anchor_id": "07",
+    "question": "What are the other health gaps?"
+  },
+  {
+    "article_id": "0905",
+    "answer_id": "11",
+    "score": -0.01816081338458586,
+    "anchor_id": "10",
+    "question": "What is the significance of the health gaps?"
+  },
+  {
+    "article_id": "0905",
+    "answer_id": "12",
+    "score": 0.585952720858834,
+    "anchor_id": "11",
+    "question": "What is the reason for the disparity in obesity rates?"
+  },
+  {
+    "article_id": "0905",
+    "answer_id": "13",
+    "score": 0.02979428900612724,
+    "anchor_id": "12",
+    "question": "What is the percentage of teenagers who exercise?"
+  },
+  {
+    "article_id": "0905",
+    "answer_id": "14",
+    "score": 0.23297946453094487,
+    "anchor_id": "13",
+    "question": "How has the percentage of teenagers who exercise changed?"
+  },
+  {
+    "article_id": "0905",
+    "answer_id": "15",
+    "score": 0.09456427307689896,
+    "anchor_id": "13",
+    "question": "How did the percentage of adolescents who had exercised or played a sport for at least 20 minutes in the previous week change for adolescents whose parents did not go beyond high school?"
+  },
+  {
+    "article_id": "0905",
+    "answer_id": "16",
+    "score": 0.7861879382814679,
+    "anchor_id": "15",
+    "question": "How did the percentage of adolescents who had exercised or played a sport for at least 20 minutes in the previous week change between 2003 and 2011?"
+  },
+  {
+    "article_id": "0905",
+    "answer_id": "17",
+    "score": 0.2540052731831868,
+    "anchor_id": "01",
+    "question": "How many adolescents have engaged in physical activity?"
+  },
+  {
+    "article_id": "0905",
+    "answer_id": "18",
+    "score": 0.32296528886346254,
+    "anchor_id": "17",
+    "question": "How do the numbers compare for teens with parents who did not go beyond high school?"
+  },
+  {
+    "article_id": "0905",
+    "answer_id": "19",
+    "score": 0.6606475710868835,
+    "anchor_id": "18",
+    "question": "What did the less fortunate kids do?"
+  },
+  {
+    "article_id": "0905",
+    "answer_id": "20",
+    "score": 0.8727802350407554,
+    "anchor_id": "19",
+    "question": "How did the children of parents with college degrees reduce their calorie intake?"
+  },
+  {
+    "article_id": "0906",
+    "answer_id": "02",
+    "score": 0.13890951871871948,
+    "anchor_id": "01",
+    "question": "What was the teen's response to the diagnosis?"
+  },
+  {
+    "article_id": "0906",
+    "answer_id": "03",
+    "score": 0.6555061340332031,
+    "anchor_id": "02",
+    "question": "What did the teen do after the assistant principal approached him?"
+  },
+  {
+    "article_id": "0906",
+    "answer_id": "04",
+    "score": -0.08122211694717407,
+    "anchor_id": "01",
+    "question": "What was the diagnosis?"
+  },
+  {
+    "article_id": "0906",
+    "answer_id": "05",
+    "score": -0.2190503478050232,
+    "anchor_id": "01",
+    "question": "What is the context of the story?"
+  },
+  {
+    "article_id": "0906",
+    "answer_id": "06",
+    "score": 1.1238506317138672,
+    "anchor_id": "05",
+    "question": "Why are many teens struggling with untreated mental illness?"
+  },
+  {
+    "article_id": "0906",
+    "answer_id": "07",
+    "score": 1.004489998022715,
+    "anchor_id": "06",
+    "question": "What is the current state of mental health screenings in schools?"
+  },
+  {
+    "article_id": "0906",
+    "answer_id": "08",
+    "score": 0.8733333891088312,
+    "anchor_id": "06",
+    "question": "What is the consistency of mental health screenings in schools?"
+  },
+  {
+    "article_id": "0906",
+    "answer_id": "09",
+    "score": 0.2703461249669393,
+    "anchor_id": "08",
+    "question": "Why do schools not screen for mental illness?"
+  },
+  {
+    "article_id": "0906",
+    "answer_id": "10",
+    "score": 0.3004096661295209,
+    "anchor_id": "09",
+    "question": "Why is it a problem that schools don't screen for mental illness?"
+  },
+  {
+    "article_id": "0906",
+    "answer_id": "11",
+    "score": -0.16162210702896118,
+    "anchor_id": "10",
+    "question": "What does he do?"
+  },
+  {
+    "article_id": "0906",
+    "answer_id": "12",
+    "score": 0.24984084476124158,
+    "anchor_id": "11",
+    "question": "What did the student learn in the group therapy sessions?"
+  },
+  {
+    "article_id": "0906",
+    "answer_id": "13",
+    "score": 0.7061316887537638,
+    "anchor_id": "12",
+    "question": "What does the student think about the school program?"
+  },
+  {
+    "article_id": "0906",
+    "answer_id": "14",
+    "score": 0.6523422360420227,
+    "anchor_id": "06",
+    "question": "How does the federal government track mental health screening?"
+  },
+  {
+    "article_id": "0906",
+    "answer_id": "15",
+    "score": 1.5619420409202576,
+    "anchor_id": "14",
+    "question": "How many schools offer mental health screening?"
+  },
+  {
+    "article_id": "0906",
+    "answer_id": "16",
+    "score": 0.18232151636710536,
+    "anchor_id": "15",
+    "question": "What is the state of school mental health screening in the US?"
+  },
+  {
+    "article_id": "0906",
+    "answer_id": "17",
+    "score": -0.10369759798049927,
+    "anchor_id": "01",
+    "question": "What are some of the states that have robust screening and treatment programs?"
+  },
+  {
+    "article_id": "0906",
+    "answer_id": "18",
+    "score": 0.20081353187561035,
+    "anchor_id": "17",
+    "question": "How do teachers screen children?"
+  },
+  {
+    "article_id": "0906",
+    "answer_id": "19",
+    "score": 0.6982234915097554,
+    "anchor_id": "18",
+    "question": "How many students are screened in Olympia?"
+  },
+  {
+    "article_id": "0906",
+    "answer_id": "20",
+    "score": -0.27106374502182007,
+    "anchor_id": "01",
+    "question": "What is the age when mental illness starts?"
+  },
+  {
+    "article_id": "0907",
+    "answer_id": "02",
+    "score": -0.14995718002319336,
+    "anchor_id": "01",
+    "question": "What did Jackie Nussbaum not realize about her son's playing of DragonVale?"
+  },
+  {
+    "article_id": "0907",
+    "answer_id": "03",
+    "score": -0.10786294937133789,
+    "anchor_id": "02",
+    "question": "What did she find out?"
+  },
+  {
+    "article_id": "0907",
+    "answer_id": "04",
+    "score": 0.4061981439590454,
+    "anchor_id": "03",
+    "question": "What did Nussbaum do when she saw the charges?"
+  },
+  {
+    "article_id": "0907",
+    "answer_id": "05",
+    "score": 0.41862332820892334,
+    "anchor_id": "03",
+    "question": "What did Apple say about the charges?"
+  },
+  {
+    "article_id": "0907",
+    "answer_id": "07",
+    "score": -0.12026697397232056,
+    "anchor_id": "06",
+    "question": "How many people were affected?"
+  },
+  {
+    "article_id": "0907",
+    "answer_id": "08",
+    "score": -0.08116132020950317,
+    "anchor_id": "07",
+    "question": "What did the Federal Trade Commission say?"
+  },
+  {
+    "article_id": "0907",
+    "answer_id": "09",
+    "score": -0.22738572359085085,
+    "anchor_id": "08",
+    "question": "What did the FTC say about Apple's actions?"
+  },
+  {
+    "article_id": "0907",
+    "answer_id": "10",
+    "score": -0.3421049628938947,
+    "anchor_id": "09",
+    "question": "What else did the FTC say?"
+  },
+  {
+    "article_id": "0907",
+    "answer_id": "12",
+    "score": 0.47576332092285156,
+    "anchor_id": "11",
+    "question": "What did Apple say about the settlement?"
+  },
+  {
+    "article_id": "0907",
+    "answer_id": "13",
+    "score": 0.0012095949866555156,
+    "anchor_id": "12",
+    "question": "What steps has Apple taken to ensure its app store is a 'safe place for customers of all ages'?"
+  },
+  {
+    "article_id": "0907",
+    "answer_id": "14",
+    "score": -0.11041373014450073,
+    "anchor_id": "01",
+    "question": "What did Nussbaum do after she found out about the charges?"
+  },
+  {
+    "article_id": "0907",
+    "answer_id": "15",
+    "score": -0.021457665496402267,
+    "anchor_id": "04",
+    "question": "How did Nussbaum find out about the charges?"
+  },
+  {
+    "article_id": "0907",
+    "answer_id": "16",
+    "score": 0.6929156367595379,
+    "anchor_id": "15",
+    "question": "What did Andrew do to make up for the money he spent?"
+  },
+  {
+    "article_id": "0907",
+    "answer_id": "17",
+    "score": 0.2508734464645386,
+    "anchor_id": "16",
+    "question": "What did Nussbaum do after the refund?"
+  },
+  {
+    "article_id": "0907",
+    "answer_id": "18",
+    "score": -0.26310592889785767,
+    "anchor_id": "01",
+    "question": "How many people have complained about this?"
+  },
+  {
+    "article_id": "0907",
+    "answer_id": "19",
+    "score": 0.28240275382995605,
+    "anchor_id": "01",
+    "question": "How does the game make money?"
+  },
+  {
+    "article_id": "1439",
+    "answer_id": "02",
+    "score": -0.42919212579727173,
+    "anchor_id": "01",
+    "question": "What is the reason for this?"
+  },
+  {
+    "article_id": "1439",
+    "answer_id": "03",
+    "score": 0.8566102981567383,
+    "anchor_id": "01",
+    "question": "Why is it difficult to trace nuclear material?"
+  },
+  {
+    "article_id": "1439",
+    "answer_id": "04",
+    "score": 0.6557300090789795,
+    "anchor_id": "01",
+    "question": "What is the reason for the inability to trace nuclear material?"
+  },
+  {
+    "article_id": "1439",
+    "answer_id": "05",
+    "score": 0.5604384660720825,
+    "anchor_id": "02",
+    "question": "Who requested the report?"
+  },
+  {
+    "article_id": "1439",
+    "answer_id": "06",
+    "score": 0.49984035889307654,
+    "anchor_id": "01",
+    "question": "What is the reason for the inability to trace the nuclear material?"
+  },
+  {
+    "article_id": "1439",
+    "answer_id": "07",
+    "score": 0.03697432532454975,
+    "anchor_id": "06",
+    "question": "How much of the nuclear material is from the U.S.?"
+  },
+  {
+    "article_id": "1439",
+    "answer_id": "08",
+    "score": 0.03808325529098511,
+    "anchor_id": "07",
+    "question": "What are the restrictions on nuclear exports?"
+  },
+  {
+    "article_id": "1439",
+    "answer_id": "09",
+    "score": -0.3108294606208801,
+    "anchor_id": "01",
+    "question": "What is the discrepancy in the amount of plutonium produced?"
+  },
+  {
+    "article_id": "1439",
+    "answer_id": "10",
+    "score": 0.024908835237676397,
+    "anchor_id": "08",
+    "question": "How much plutonium is needed to make a nuclear weapon?"
+  },
+  {
+    "article_id": "1439",
+    "answer_id": "11",
+    "score": 0.4431549373425936,
+    "anchor_id": "10",
+    "question": "What is the U.S. doing to address the issue of nuclear material being diverted from its intended use?"
+  },
+  {
+    "article_id": "1439",
+    "answer_id": "12",
+    "score": -0.36871546506881714,
+    "anchor_id": "09",
+    "question": "What is the reason for the discrepancy?"
+  },
+  {
+    "article_id": "1439",
+    "answer_id": "13",
+    "score": 0.12591405556752133,
+    "anchor_id": "11",
+    "question": "What did Trulock say about the U.S. nuclear material sent to Europe?"
+  },
+  {
+    "article_id": "1439",
+    "answer_id": "14",
+    "score": 0.5147461824946933,
+    "anchor_id": "13",
+    "question": "What is the reason for Trulock's reluctance to comment on U.S. nuclear material sent to Europe?"
+  },
+  {
+    "article_id": "1439",
+    "answer_id": "17",
+    "score": 0.2538585066795349,
+    "anchor_id": "11",
+    "question": "What did Trulock say about the report?"
+  },
+  {
+    "article_id": "1439",
+    "answer_id": "18",
+    "score": 0.8266983032226562,
+    "anchor_id": "17",
+    "question": "What did Trulock say about the report?"
+  },
+  {
+    "article_id": "1439",
+    "answer_id": "19",
+    "score": 0.011873680811661957,
+    "anchor_id": "18",
+    "question": "What did the report say about the government's old tracking system?"
+  },
+  {
+    "article_id": "1439",
+    "answer_id": "20",
+    "score": 0.42521933317184446,
+    "anchor_id": "19",
+    "question": "What is the reason for the system's complexity?"
+  },
+  {
+    "article_id": "1440",
+    "answer_id": "02",
+    "score": 0.43321631352106726,
+    "anchor_id": "01",
+    "question": "What is the context of the peace talks?"
+  },
+  {
+    "article_id": "1440",
+    "answer_id": "03",
+    "score": -0.32303524017333984,
+    "anchor_id": "02",
+    "question": "What else was agreed upon?"
+  },
+  {
+    "article_id": "1440",
+    "answer_id": "04",
+    "score": 0.15501701831817627,
+    "anchor_id": "02",
+    "question": "What happened after the cease-fire?"
+  },
+  {
+    "article_id": "1440",
+    "answer_id": "05",
+    "score": -0.18395549058914185,
+    "anchor_id": "04",
+    "question": "Who is fighting in Chechnya?"
+  },
+  {
+    "article_id": "1440",
+    "answer_id": "06",
+    "score": -0.26354777812957764,
+    "anchor_id": "01",
+    "question": "What is the Russian Prime Minister's stance on the negotiations?"
+  },
+  {
+    "article_id": "1440",
+    "answer_id": "07",
+    "score": -0.33293622732162476,
+    "anchor_id": "06",
+    "question": "What has happened in the past?"
+  },
+  {
+    "article_id": "1440",
+    "answer_id": "08",
+    "score": -0.12847888469696045,
+    "anchor_id": "01",
+    "question": "Who is the Russian side represented by?"
+  },
+  {
+    "article_id": "1440",
+    "answer_id": "09",
+    "score": -0.10194318635123112,
+    "anchor_id": "02",
+    "question": "What is the reason for skepticism?"
+  },
+  {
+    "article_id": "1440",
+    "answer_id": "10",
+    "score": -0.4615669548511505,
+    "anchor_id": "02",
+    "question": "What is the reason for the skepticism?"
+  },
+  {
+    "article_id": "1440",
+    "answer_id": "11",
+    "score": -0.08575809001922607,
+    "anchor_id": "01",
+    "question": "How many people have been killed in the conflict?"
+  },
+  {
+    "article_id": "1440",
+    "answer_id": "12",
+    "score": -0.08475971221923828,
+    "anchor_id": "11",
+    "question": "What has happened to Grozny?"
+  },
+  {
+    "article_id": "1440",
+    "answer_id": "13",
+    "score": -0.0571904097284589,
+    "anchor_id": "12",
+    "question": "What is the state of Grozny?"
+  },
+  {
+    "article_id": "1440",
+    "answer_id": "14",
+    "score": 0.14567720348184754,
+    "anchor_id": "11",
+    "question": "What has been the cost of the war to Russia?"
+  },
+  {
+    "article_id": "1440",
+    "answer_id": "15",
+    "score": -0.19469785690307617,
+    "anchor_id": "01",
+    "question": "What is the international community doing?"
+  },
+  {
+    "article_id": "1440",
+    "answer_id": "16",
+    "score": -0.12363177537918091,
+    "anchor_id": "15",
+    "question": "What happened during the meetings?"
+  },
+  {
+    "article_id": "1440",
+    "answer_id": "17",
+    "score": -0.02597035964330041,
+    "anchor_id": "16",
+    "question": "What did Douglas Hurd say?"
+  },
+  {
+    "article_id": "1440",
+    "answer_id": "18",
+    "score": 0.23013528188069665,
+    "anchor_id": "15",
+    "question": "What are the economic costs of the war?"
+  },
+  {
+    "article_id": "1440",
+    "answer_id": "19",
+    "score": 0.02185867230097449,
+    "anchor_id": "18",
+    "question": "How much will it cost?"
+  },
+  {
+    "article_id": "1440",
+    "answer_id": "20",
+    "score": 0.4393570144971211,
+    "anchor_id": "19",
+    "question": "How much is the cost of Chechnya's reconstruction?"
+  },
+  {
+    "article_id": "1441",
+    "answer_id": "02",
+    "score": 0.29343414306640625,
+    "anchor_id": "01",
+    "question": "What did Halbish say about the information?"
+  },
+  {
+    "article_id": "1441",
+    "answer_id": "03",
+    "score": -0.1926558017730713,
+    "anchor_id": "01",
+    "question": "What is the ICC doing about the allegations?"
+  },
+  {
+    "article_id": "1441",
+    "answer_id": "04",
+    "score": -0.22434401512145996,
+    "anchor_id": "03",
+    "question": "What is the current status of the investigation?"
+  },
+  {
+    "article_id": "1441",
+    "answer_id": "05",
+    "score": 0.3589843312899271,
+    "anchor_id": "03",
+    "question": "Who made the bribe offers?"
+  },
+  {
+    "article_id": "1441",
+    "answer_id": "06",
+    "score": 0.5243025263150534,
+    "anchor_id": "05",
+    "question": "What other players were named in the bribe allegations?"
+  },
+  {
+    "article_id": "1441",
+    "answer_id": "07",
+    "score": -0.12772351503372192,
+    "anchor_id": "01",
+    "question": "What has the ACB done about the allegations?"
+  },
+  {
+    "article_id": "1441",
+    "answer_id": "08",
+    "score": 0.3558998107910156,
+    "anchor_id": "07",
+    "question": "What did the ACB do in response to the request from the ICC?"
+  },
+  {
+    "article_id": "1441",
+    "answer_id": "09",
+    "score": 0.30895355072888464,
+    "anchor_id": "08",
+    "question": "What did the ACB do in response to the request?"
+  },
+  {
+    "article_id": "1441",
+    "answer_id": "10",
+    "score": -0.006958001189761642,
+    "anchor_id": "07",
+    "question": "What is the current status of the investigation?"
+  },
+  {
+    "article_id": "1441",
+    "answer_id": "11",
+    "score": 0.36768650466745545,
+    "anchor_id": "04",
+    "question": "What was the bribe that Warne and May were offered?"
+  },
+  {
+    "article_id": "1441",
+    "answer_id": "12",
+    "score": 0.49503258864084876,
+    "anchor_id": "11",
+    "question": "What happened in the first Test?"
+  },
+  {
+    "article_id": "1441",
+    "answer_id": "13",
+    "score": 0.3766264319419861,
+    "anchor_id": "12",
+    "question": "Who made the bribe offers?"
+  },
+  {
+    "article_id": "1441",
+    "answer_id": "14",
+    "score": 0.7152770638465882,
+    "anchor_id": "13",
+    "question": "Who was the person who made the bribe offers?"
+  },
+  {
+    "article_id": "1441",
+    "answer_id": "15",
+    "score": -0.0719606876373291,
+    "anchor_id": "14",
+    "question": "What did Malik say about the allegations?"
+  },
+  {
+    "article_id": "1441",
+    "answer_id": "16",
+    "score": -0.10821861028671265,
+    "anchor_id": "15",
+    "question": "What did Malik say about the allegations?"
+  },
+  {
+    "article_id": "1441",
+    "answer_id": "17",
+    "score": 0.06744140386581421,
+    "anchor_id": "16",
+    "question": "What did Malik say about the report?"
+  },
+  {
+    "article_id": "1441",
+    "answer_id": "18",
+    "score": 0.6095911860466003,
+    "anchor_id": "17",
+    "question": "What did Malik say about the report?"
+  },
+  {
+    "article_id": "1441",
+    "answer_id": "19",
+    "score": -0.3419448435306549,
+    "anchor_id": "18",
+    "question": "What did Malik say about the report?"
+  },
+  {
+    "article_id": "1441",
+    "answer_id": "20",
+    "score": -0.25512605905532837,
+    "anchor_id": "19",
+    "question": "What will Malik do?"
+  },
+  {
+    "article_id": "1442",
+    "answer_id": "02",
+    "score": 0.4047747254371643,
+    "anchor_id": "01",
+    "question": "What would Serbia have to do to get the sanctions lifted?"
+  },
+  {
+    "article_id": "1442",
+    "answer_id": "03",
+    "score": 0.010683178901672363,
+    "anchor_id": "02",
+    "question": "What is the aim of the proposal?"
+  },
+  {
+    "article_id": "1442",
+    "answer_id": "04",
+    "score": -0.008782233510698623,
+    "anchor_id": "02",
+    "question": "What would be the main reason for Milosevic to agree to the proposal?"
+  },
+  {
+    "article_id": "1442",
+    "answer_id": "05",
+    "score": 0.38611114025115967,
+    "anchor_id": "01",
+    "question": "What is the reason for the sanctions?"
+  },
+  {
+    "article_id": "1442",
+    "answer_id": "06",
+    "score": 0.32995104789733887,
+    "anchor_id": "01",
+    "question": "What is the proposal?"
+  },
+  {
+    "article_id": "1442",
+    "answer_id": "07",
+    "score": -0.17208892107009888,
+    "anchor_id": "02",
+    "question": "What else would Milosevic have to do?"
+  },
+  {
+    "article_id": "1442",
+    "answer_id": "08",
+    "score": -0.11580177545547488,
+    "anchor_id": "07",
+    "question": "What is the UN's view on the proposal?"
+  },
+  {
+    "article_id": "1442",
+    "answer_id": "09",
+    "score": -0.2085192004839579,
+    "anchor_id": "08",
+    "question": "What does Boutros-Ghali think about the lifting of sanctions?"
+  },
+  {
+    "article_id": "1442",
+    "answer_id": "10",
+    "score": -0.11499130725860596,
+    "anchor_id": "03",
+    "question": "What is the situation with the Serbs in Bosnia?"
+  },
+  {
+    "article_id": "1442",
+    "answer_id": "11",
+    "score": -0.14855331182479858,
+    "anchor_id": "10",
+    "question": "What would be the next step?"
+  },
+  {
+    "article_id": "1442",
+    "answer_id": "12",
+    "score": -0.09162688255310059,
+    "anchor_id": "01",
+    "question": "What would happen if Milosevic failed to comply with the agreement?"
+  },
+  {
+    "article_id": "1442",
+    "answer_id": "13",
+    "score": -0.37446641524632773,
+    "anchor_id": "12",
+    "question": "What would happen to Serbia's international status if Milosevic reneged on the deal?"
+  },
+  {
+    "article_id": "1442",
+    "answer_id": "14",
+    "score": -0.09620088338851929,
+    "anchor_id": "01",
+    "question": "When will the plan be presented to Milosevic?"
+  },
+  {
+    "article_id": "1442",
+    "answer_id": "15",
+    "score": -0.09262057542800906,
+    "anchor_id": "14",
+    "question": "What happened after the plan was presented to Milosevic?"
+  },
+  {
+    "article_id": "1442",
+    "answer_id": "16",
+    "score": 0.007030317416557907,
+    "anchor_id": "15",
+    "question": "Why did the U.S. official not want to talk about the proposal?"
+  },
+  {
+    "article_id": "1442",
+    "answer_id": "17",
+    "score": 0.051287120580673196,
+    "anchor_id": "16",
+    "question": "Why did he reveal the details of the proposal?"
+  },
+  {
+    "article_id": "1442",
+    "answer_id": "18",
+    "score": -0.19994395971298218,
+    "anchor_id": "17",
+    "question": "What did the newspaper publish?"
+  },
+  {
+    "article_id": "1442",
+    "answer_id": "19",
+    "score": 0.2911984920501709,
+    "anchor_id": "01",
+    "question": "What is the reason for the sanctions?"
+  },
+  {
+    "article_id": "1442",
+    "answer_id": "20",
+    "score": 0.30906718571980796,
+    "anchor_id": "19",
+    "question": "What do the Bosnian Serbs think of the plan?"
+  },
+  {
+    "article_id": "1443",
+    "answer_id": "02",
+    "score": -0.06224876642227173,
+    "anchor_id": "01",
+    "question": "What was the reason for the government's decision?"
+  },
+  {
+    "article_id": "1443",
+    "answer_id": "03",
+    "score": -0.203075110912323,
+    "anchor_id": "01",
+    "question": "What is the reason for the shift in focus?"
+  },
+  {
+    "article_id": "1443",
+    "answer_id": "04",
+    "score": 0.2855228781700134,
+    "anchor_id": "03",
+    "question": "What is the current state of China's educational system?"
+  },
+  {
+    "article_id": "1443",
+    "answer_id": "05",
+    "score": -0.0521395856683905,
+    "anchor_id": "04",
+    "question": "What are the other problems in China's educational system?"
+  },
+  {
+    "article_id": "1443",
+    "answer_id": "06",
+    "score": 0.01187853018442786,
+    "anchor_id": "05",
+    "question": "What are the problems that China's educational system is facing?"
+  },
+  {
+    "article_id": "1443",
+    "answer_id": "07",
+    "score": -0.2291426658630371,
+    "anchor_id": "06",
+    "question": "What are the other areas of the economy that have relaxed controls?"
+  },
+  {
+    "article_id": "1443",
+    "answer_id": "08",
+    "score": 0.42998758951822913,
+    "anchor_id": "01",
+    "question": "What is the purpose of these special schools?"
+  },
+  {
+    "article_id": "1443",
+    "answer_id": "09",
+    "score": 0.6423205307551793,
+    "anchor_id": "08",
+    "question": "Why are these schools a problem?"
+  },
+  {
+    "article_id": "1443",
+    "answer_id": "10",
+    "score": 0.5626384615898132,
+    "anchor_id": "09",
+    "question": "What are the fees for these schools?"
+  },
+  {
+    "article_id": "1443",
+    "answer_id": "11",
+    "score": 0.619993887164376,
+    "anchor_id": "10",
+    "question": "When will the ban on elite schools go into effect?"
+  },
+  {
+    "article_id": "1443",
+    "answer_id": "12",
+    "score": 0.030160827296120796,
+    "anchor_id": "10",
+    "question": "What is the government doing about the fees that have already been charged?"
+  },
+  {
+    "article_id": "1443",
+    "answer_id": "13",
+    "score": 0.797992225488027,
+    "anchor_id": "12",
+    "question": "What will happen to schools that have already taken fees for the spring semester?"
+  },
+  {
+    "article_id": "1443",
+    "answer_id": "14",
+    "score": -0.4519006609916687,
+    "anchor_id": "02",
+    "question": "What else did the circular do?"
+  },
+  {
+    "article_id": "1443",
+    "answer_id": "15",
+    "score": -0.15753295421600344,
+    "anchor_id": "14",
+    "question": "What will happen to schools that violate the rules?"
+  },
+  {
+    "article_id": "1443",
+    "answer_id": "16",
+    "score": 0.28085923194885254,
+    "anchor_id": "01",
+    "question": "What is the goal of the government's move?"
+  },
+  {
+    "article_id": "1443",
+    "answer_id": "17",
+    "score": 0.9886742830276489,
+    "anchor_id": "16",
+    "question": "How much does China spend on education?"
+  },
+  {
+    "article_id": "1443",
+    "answer_id": "18",
+    "score": 0.12230957746505733,
+    "anchor_id": "17",
+    "question": "How has the lack of funding affected the schools?"
+  },
+  {
+    "article_id": "1443",
+    "answer_id": "19",
+    "score": 1.1077642982656304,
+    "anchor_id": "18",
+    "question": "Why are local authorities failing to provide the basic minimum?"
+  },
+  {
+    "article_id": "1443",
+    "answer_id": "20",
+    "score": 0.04274249928338192,
+    "anchor_id": "18",
+    "question": "What is the government doing to address the issue of poorly educated workforce?"
+  },
+  {
+    "article_id": "1444",
+    "answer_id": "02",
+    "score": -0.6020389199256897,
+    "anchor_id": "01",
+    "question": "What is the reason for the doors to be hanging ajar?"
+  },
+  {
+    "article_id": "1444",
+    "answer_id": "03",
+    "score": 0.025669872760772705,
+    "anchor_id": "01",
+    "question": "What is the door for?"
+  },
+  {
+    "article_id": "1444",
+    "answer_id": "04",
+    "score": -0.26998651027679443,
+    "anchor_id": "01",
+    "question": "What is the reason for the doors being open?"
+  },
+  {
+    "article_id": "1444",
+    "answer_id": "05",
+    "score": 0.3850604097048441,
+    "anchor_id": "04",
+    "question": "What is the reason for the loudest sound?"
+  },
+  {
+    "article_id": "1444",
+    "answer_id": "06",
+    "score": 0.10036964416503902,
+    "anchor_id": "05",
+    "question": "How many people fled?"
+  },
+  {
+    "article_id": "1444",
+    "answer_id": "07",
+    "score": 0.005373009613582114,
+    "anchor_id": "06",
+    "question": "What did the people leave behind?"
+  },
+  {
+    "article_id": "1444",
+    "answer_id": "08",
+    "score": 0.15872138738632202,
+    "anchor_id": "07",
+    "question": "What did the people who fled do?"
+  },
+  {
+    "article_id": "1444",
+    "answer_id": "09",
+    "score": 0.38973912325772375,
+    "anchor_id": "05",
+    "question": "How did the people of the village hear the troops?"
+  },
+  {
+    "article_id": "1444",
+    "answer_id": "10",
+    "score": -0.01016190222331459,
+    "anchor_id": "06",
+    "question": "What did the people do when they heard the noise of the trucks?"
+  },
+  {
+    "article_id": "1444",
+    "answer_id": "11",
+    "score": 0.11232389344109428,
+    "anchor_id": "09",
+    "question": "What was Maria doing when the army arrived?"
+  },
+  {
+    "article_id": "1444",
+    "answer_id": "12",
+    "score": 0.32052813768386845,
+    "anchor_id": "05",
+    "question": "What was the reason for the army's crackdown on the rebel movement in the southern state of Chiapas?"
+  },
+  {
+    "article_id": "1444",
+    "answer_id": "13",
+    "score": 0.4892524547047086,
+    "anchor_id": "12",
+    "question": "What do the people think of the decision?"
+  },
+  {
+    "article_id": "1444",
+    "answer_id": "14",
+    "score": 0.0732601682345072,
+    "anchor_id": "13",
+    "question": "When did the army enter?"
+  },
+  {
+    "article_id": "1444",
+    "answer_id": "15",
+    "score": 0.15392719507217412,
+    "anchor_id": "14",
+    "question": "What happened to the people arrested by the army?"
+  },
+  {
+    "article_id": "1444",
+    "answer_id": "16",
+    "score": 0.07938511504067314,
+    "anchor_id": "15",
+    "question": "What did the army say about the allegations?"
+  },
+  {
+    "article_id": "1444",
+    "answer_id": "17",
+    "score": 0.5304093631831083,
+    "anchor_id": "16",
+    "question": "What was the reaction of the people to the investigation?"
+  },
+  {
+    "article_id": "1444",
+    "answer_id": "18",
+    "score": 0.11792899370193477,
+    "anchor_id": "17",
+    "question": "How many people have been affected by the violence?"
+  },
+  {
+    "article_id": "1444",
+    "answer_id": "19",
+    "score": 0.012816078133053299,
+    "anchor_id": "18",
+    "question": "What did the refugees say about the Zapatistas?"
+  },
+  {
+    "article_id": "1444",
+    "answer_id": "20",
+    "score": 0.2713318467140198,
+    "anchor_id": "18",
+    "question": "What has happened in the area?"
+  },
+  {
+    "article_id": "1445",
+    "answer_id": "02",
+    "score": 0.3994215726852417,
+    "anchor_id": "01",
+    "question": "What will the teams do?"
+  },
+  {
+    "article_id": "1445",
+    "answer_id": "03",
+    "score": -0.18802005052566528,
+    "anchor_id": "02",
+    "question": "What is the significance of the battle?"
+  },
+  {
+    "article_id": "1445",
+    "answer_id": "04",
+    "score": -0.10865622758865356,
+    "anchor_id": "03",
+    "question": "Why is Willoughby returning to Lang Vei?"
+  },
+  {
+    "article_id": "1445",
+    "answer_id": "05",
+    "score": -0.33397120237350464,
+    "anchor_id": "01",
+    "question": "Why is it unusual for survivors to help in the search?"
+  },
+  {
+    "article_id": "1445",
+    "answer_id": "06",
+    "score": -0.09659421443939209,
+    "anchor_id": "03",
+    "question": "What will Willoughby do?"
+  },
+  {
+    "article_id": "1445",
+    "answer_id": "07",
+    "score": 0.4106358289718628,
+    "anchor_id": "01",
+    "question": "How will the teams be organized?"
+  },
+  {
+    "article_id": "1445",
+    "answer_id": "08",
+    "score": 0.3626983165740967,
+    "anchor_id": "01",
+    "question": "How long have the teams been working?"
+  },
+  {
+    "article_id": "1445",
+    "answer_id": "09",
+    "score": 0.10809969902038574,
+    "anchor_id": "01",
+    "question": "How many U.S. servicemen are unaccounted for?"
+  },
+  {
+    "article_id": "1445",
+    "answer_id": "10",
+    "score": 0.292683478196462,
+    "anchor_id": "09",
+    "question": "What happened to the majority of the missing soldiers?"
+  },
+  {
+    "article_id": "1445",
+    "answer_id": "11",
+    "score": 0.13890504837036133,
+    "anchor_id": "01",
+    "question": "How many U.S. servicemen are unaccounted for in other countries?"
+  },
+  {
+    "article_id": "1445",
+    "answer_id": "12",
+    "score": -0.359913170337677,
+    "anchor_id": "01",
+    "question": "What has been said about Vietnam's cooperation in the search for MIAs?"
+  },
+  {
+    "article_id": "1445",
+    "answer_id": "13",
+    "score": -0.1334046721458435,
+    "anchor_id": "12",
+    "question": "What has been done to improve relations between the two countries?"
+  },
+  {
+    "article_id": "1445",
+    "answer_id": "14",
+    "score": 0.008848524093627907,
+    "anchor_id": "13",
+    "question": "What is the status of Vietnam's missing soldiers?"
+  },
+  {
+    "article_id": "1492",
+    "answer_id": "02",
+    "score": -0.13143199682235718,
+    "anchor_id": "01",
+    "question": "What is the study about?"
+  },
+  {
+    "article_id": "1492",
+    "answer_id": "03",
+    "score": -0.26788073778152466,
+    "anchor_id": "02",
+    "question": "What do cats think of us talking to them?"
+  },
+  {
+    "article_id": "1492",
+    "answer_id": "04",
+    "score": 0.12706464529037476,
+    "anchor_id": "02",
+    "question": "What is the study about?"
+  },
+  {
+    "article_id": "1492",
+    "answer_id": "05",
+    "score": 0.1537168423334757,
+    "anchor_id": "04",
+    "question": "What was the study about?"
+  },
+  {
+    "article_id": "1492",
+    "answer_id": "06",
+    "score": 0.12576570294120093,
+    "anchor_id": "05",
+    "question": "How did the cats respond to the voices of strangers?"
+  },
+  {
+    "article_id": "1492",
+    "answer_id": "07",
+    "score": 0.5399215618769327,
+    "anchor_id": "06",
+    "question": "What did the researchers measure?"
+  },
+  {
+    "article_id": "1492",
+    "answer_id": "08",
+    "score": -0.10659401233379662,
+    "anchor_id": "07",
+    "question": "What did the cats do when they heard the stranger's voices?"
+  },
+  {
+    "article_id": "1492",
+    "answer_id": "09",
+    "score": 0.3513001937132615,
+    "anchor_id": "08",
+    "question": "What did the cats do when they heard their owners' voices?"
+  },
+  {
+    "article_id": "1492",
+    "answer_id": "10",
+    "score": 0.40419911254536023,
+    "anchor_id": "09",
+    "question": "What did the researchers say about the cats' reactions?"
+  },
+  {
+    "article_id": "1492",
+    "answer_id": "11",
+    "score": -0.04569533116677227,
+    "anchor_id": "03",
+    "question": "What does it mean when a cat doesn't care about what you have to say?"
+  },
+  {
+    "article_id": "1492",
+    "answer_id": "12",
+    "score": 1.117315431435903,
+    "anchor_id": "10",
+    "question": "What does the study mean for cat owners?"
+  },
+  {
+    "article_id": "1492",
+    "answer_id": "13",
+    "score": 0.17149958610534666,
+    "anchor_id": "12",
+    "question": "What is the reason for the cats' behavior?"
+  },
+  {
+    "article_id": "1492",
+    "answer_id": "14",
+    "score": -0.27473613194056923,
+    "anchor_id": "13",
+    "question": "What is the reason for the difference in behavior between cats and dogs?"
+  },
+  {
+    "article_id": "1492",
+    "answer_id": "15",
+    "score": 0.9744197924931844,
+    "anchor_id": "13",
+    "question": "Why do cats not care about what we want from them?"
+  },
+  {
+    "article_id": "1492",
+    "answer_id": "16",
+    "score": 1.3076088825861614,
+    "anchor_id": "13",
+    "question": "How did cats get domesticated?"
+  },
+  {
+    "article_id": "1492",
+    "answer_id": "17",
+    "score": 1.2145375864846366,
+    "anchor_id": "16",
+    "question": "How did cats become so independent?"
+  },
+  {
+    "article_id": "1492",
+    "answer_id": "18",
+    "score": -0.20591556363635588,
+    "anchor_id": "14",
+    "question": "What is the difference between dogs and cats?"
+  },
+  {
+    "article_id": "1492",
+    "answer_id": "19",
+    "score": 0.46017528663982044,
+    "anchor_id": "18",
+    "question": "Why have cats not been studied as much as dogs?"
+  },
+  {
+    "article_id": "1492",
+    "answer_id": "20",
+    "score": 1.1420031984647117,
+    "anchor_id": "18",
+    "question": "How did cats learn to communicate with humans?"
+  },
+  {
+    "article_id": "1493",
+    "answer_id": "02",
+    "score": -0.1195305585861206,
+    "anchor_id": "01",
+    "question": "What is the most romantic place to go on a date?"
+  },
+  {
+    "article_id": "1493",
+    "answer_id": "03",
+    "score": -0.2967105462000921,
+    "anchor_id": "02",
+    "question": "What is the reason for the crabs to come to the beach?"
+  },
+  {
+    "article_id": "1493",
+    "answer_id": "04",
+    "score": 0.512816466036297,
+    "anchor_id": "03",
+    "question": "What happened to the horseshoe crabs?"
+  },
+  {
+    "article_id": "1493",
+    "answer_id": "05",
+    "score": -0.2464565634727478,
+    "anchor_id": "04",
+    "question": "What is the reason for the decline?"
+  },
+  {
+    "article_id": "1493",
+    "answer_id": "06",
+    "score": 0.6229930652512444,
+    "anchor_id": "05",
+    "question": "What is the connection between the decline of horseshoe crabs and the global demand for their blood?"
+  },
+  {
+    "article_id": "1493",
+    "answer_id": "07",
+    "score": 0.15989190340042114,
+    "anchor_id": "06",
+    "question": "What is the impact of the decline of crabs on shorebirds?"
+  },
+  {
+    "article_id": "1493",
+    "answer_id": "08",
+    "score": -0.17891847689946494,
+    "anchor_id": "07",
+    "question": "What is the Florida Fish and Wildlife Conservation Commission doing to help the crabs?"
+  },
+  {
+    "article_id": "1493",
+    "answer_id": "09",
+    "score": -0.14404475688934326,
+    "anchor_id": "08",
+    "question": "What is the purpose of the Florida Fish and Wildlife Conservation Commission's efforts?"
+  },
+  {
+    "article_id": "1493",
+    "answer_id": "10",
+    "score": 0.17118912935256958,
+    "anchor_id": "09",
+    "question": "What do scientists think of the crabs?"
+  },
+  {
+    "article_id": "1493",
+    "answer_id": "11",
+    "score": 0.07386345333523225,
+    "anchor_id": "10",
+    "question": "Why is it important to study the crabs?"
+  },
+  {
+    "article_id": "1493",
+    "answer_id": "12",
+    "score": 0.03905386584145687,
+    "anchor_id": "10",
+    "question": "How do they track the crabs?"
+  },
+  {
+    "article_id": "1493",
+    "answer_id": "13",
+    "score": -0.3549194250788007,
+    "anchor_id": "12",
+    "question": "How many crabs have been spotted?"
+  },
+  {
+    "article_id": "1493",
+    "answer_id": "14",
+    "score": 0.12519265413284297,
+    "anchor_id": "13",
+    "question": "How does the agency plan to get more data?"
+  },
+  {
+    "article_id": "1493",
+    "answer_id": "15",
+    "score": 0.3918098482218656,
+    "anchor_id": "14",
+    "question": "Why is it important to get multiple years of data?"
+  },
+  {
+    "article_id": "1493",
+    "answer_id": "16",
+    "score": -0.17267898718516028,
+    "anchor_id": "15",
+    "question": "What is a horseshoe crab?"
+  },
+  {
+    "article_id": "1493",
+    "answer_id": "17",
+    "score": 0.6842213206821017,
+    "anchor_id": "16",
+    "question": "What is the history of the horseshoe crab?"
+  },
+  {
+    "article_id": "1493",
+    "answer_id": "18",
+    "score": 0.31769659784105087,
+    "anchor_id": "17",
+    "question": "What did people think of the horseshoe crab?"
+  },
+  {
+    "article_id": "1493",
+    "answer_id": "19",
+    "score": 0.4276088211271498,
+    "anchor_id": "18",
+    "question": "What did people do to the horseshoe crab?"
+  },
+  {
+    "article_id": "1493",
+    "answer_id": "20",
+    "score": -0.0536176443099976,
+    "anchor_id": "18",
+    "question": "How many horseshoe crabs were caught in the 1800s?"
+  },
+  {
+    "article_id": "1494",
+    "answer_id": "02",
+    "score": -0.11940842866897583,
+    "anchor_id": "01",
+    "question": "What is the story of the technological sleuthing?"
+  },
+  {
+    "article_id": "1494",
+    "answer_id": "03",
+    "score": -0.2547118067741394,
+    "anchor_id": "02",
+    "question": "What was the story they revealed?"
+  },
+  {
+    "article_id": "1494",
+    "answer_id": "04",
+    "score": 0.613246738910675,
+    "anchor_id": "03",
+    "question": "What were the images that were recovered?"
+  },
+  {
+    "article_id": "1494",
+    "answer_id": "05",
+    "score": 0.3277379274368286,
+    "anchor_id": "04",
+    "question": "What else was found on the disks?"
+  },
+  {
+    "article_id": "1494",
+    "answer_id": "06",
+    "score": -0.44349396228790283,
+    "anchor_id": "05",
+    "question": "What is the significance of these images?"
+  },
+  {
+    "article_id": "1494",
+    "answer_id": "07",
+    "score": -0.08191651105880737,
+    "anchor_id": "06",
+    "question": "What is the significance of the images?"
+  },
+  {
+    "article_id": "1494",
+    "answer_id": "08",
+    "score": -0.15623772144317627,
+    "anchor_id": "07",
+    "question": "What is the reaction of the people to the discovery?"
+  },
+  {
+    "article_id": "1494",
+    "answer_id": "09",
+    "score": -0.26384337743123376,
+    "anchor_id": "08",
+    "question": "What did the man say?"
+  },
+  {
+    "article_id": "1494",
+    "answer_id": "10",
+    "score": -0.3291897177696228,
+    "anchor_id": "09",
+    "question": "What will Wrbican do next?"
+  },
+  {
+    "article_id": "1494",
+    "answer_id": "11",
+    "score": -0.3318304930414472,
+    "anchor_id": "10",
+    "question": "What would be the impact of the images not being created by Warhol?"
+  },
+  {
+    "article_id": "1494",
+    "answer_id": "12",
+    "score": 0.2434035677176255,
+    "anchor_id": "11",
+    "question": "What would happen if the images were not solely created by Warhol?"
+  },
+  {
+    "article_id": "1494",
+    "answer_id": "13",
+    "score": 0.05949056148529053,
+    "anchor_id": "12",
+    "question": "What is the significance of the collaboration?"
+  },
+  {
+    "article_id": "1494",
+    "answer_id": "14",
+    "score": -0.4402728107842532,
+    "anchor_id": "13",
+    "question": "What is the significance of Warhol learning a new tool?"
+  },
+  {
+    "article_id": "1494",
+    "answer_id": "15",
+    "score": -0.15566778182983398,
+    "anchor_id": "01",
+    "question": "How did the museum get the computer and disks?"
+  },
+  {
+    "article_id": "1494",
+    "answer_id": "16",
+    "score": -0.1259954571723938,
+    "anchor_id": "01",
+    "question": "How did the project get started?"
+  },
+  {
+    "article_id": "1494",
+    "answer_id": "17",
+    "score": 0.03524880517612805,
+    "anchor_id": "16",
+    "question": "What was Arcangel doing when he was asked to help?"
+  },
+  {
+    "article_id": "1494",
+    "answer_id": "18",
+    "score": 0.10049395669590344,
+    "anchor_id": "17",
+    "question": "What else is being done to showcase the Warhol images?"
+  },
+  {
+    "article_id": "1494",
+    "answer_id": "19",
+    "score": -0.31118201017379765,
+    "anchor_id": "18",
+    "question": "What did Arcangel propose?"
+  },
+  {
+    "article_id": "1494",
+    "answer_id": "20",
+    "score": 0.6013301809628805,
+    "anchor_id": "19",
+    "question": "What was the video about?"
+  },
+  {
+    "article_id": "1495",
+    "answer_id": "02",
+    "score": -0.30829358100891113,
+    "anchor_id": "01",
+    "question": "What else are they doing?"
+  },
+  {
+    "article_id": "1495",
+    "answer_id": "03",
+    "score": -0.462813138961792,
+    "anchor_id": "01",
+    "question": "What are the comments and protests about?"
+  },
+  {
+    "article_id": "1495",
+    "answer_id": "04",
+    "score": 0.20033115148544312,
+    "anchor_id": "03",
+    "question": "What are the comments and protests about?"
+  },
+  {
+    "article_id": "1495",
+    "answer_id": "05",
+    "score": -0.18564236164093018,
+    "anchor_id": "04",
+    "question": "What is the opinion of the farmers?"
+  },
+  {
+    "article_id": "1495",
+    "answer_id": "06",
+    "score": -0.02676236629486084,
+    "anchor_id": "05",
+    "question": "What is the reason for the protests?"
+  },
+  {
+    "article_id": "1495",
+    "answer_id": "07",
+    "score": -0.03346168332629729,
+    "anchor_id": "06",
+    "question": "What is the main reason for the protests?"
+  },
+  {
+    "article_id": "1495",
+    "answer_id": "08",
+    "score": -0.06609820657306242,
+    "anchor_id": "06",
+    "question": "What is the main reason for the protests?"
+  },
+  {
+    "article_id": "1495",
+    "answer_id": "09",
+    "score": 0.32091148874976416,
+    "anchor_id": "08",
+    "question": "What do environmental and fishery groups say about the issue?"
+  },
+  {
+    "article_id": "1495",
+    "answer_id": "10",
+    "score": -0.45533305406570435,
+    "anchor_id": "06",
+    "question": "What is the context of the argument?"
+  },
+  {
+    "article_id": "1495",
+    "answer_id": "11",
+    "score": -0.09794408082962036,
+    "anchor_id": "06",
+    "question": "What happened when the storms hit?"
+  },
+  {
+    "article_id": "1495",
+    "answer_id": "12",
+    "score": -0.14819276332855225,
+    "anchor_id": "11",
+    "question": "What happened next?"
+  },
+  {
+    "article_id": "1495",
+    "answer_id": "13",
+    "score": 0.6618609565954942,
+    "anchor_id": "12",
+    "question": "What did farmers do to try to stop the flow of water?"
+  },
+  {
+    "article_id": "1495",
+    "answer_id": "14",
+    "score": 0.15226322412490845,
+    "anchor_id": "13",
+    "question": "What did environmentalists and fishing groups do?"
+  },
+  {
+    "article_id": "1495",
+    "answer_id": "15",
+    "score": 0.5944317976633707,
+    "anchor_id": "14",
+    "question": "What did the officials do?"
+  },
+  {
+    "article_id": "1495",
+    "answer_id": "16",
+    "score": 0.18249972661336256,
+    "anchor_id": "01",
+    "question": "What is the state doing to address the water crisis?"
+  },
+  {
+    "article_id": "1495",
+    "answer_id": "17",
+    "score": 0.1329263567924499,
+    "anchor_id": "01",
+    "question": "What is the significance of this year's water crisis?"
+  },
+  {
+    "article_id": "1495",
+    "answer_id": "18",
+    "score": 0.614339099147103,
+    "anchor_id": "17",
+    "question": "What is the significance of this year's water crisis?"
+  },
+  {
+    "article_id": "1495",
+    "answer_id": "19",
+    "score": 0.020759534835815385,
+    "anchor_id": "18",
+    "question": "What is the significance of this year's drought?"
+  },
+  {
+    "article_id": "1495",
+    "answer_id": "20",
+    "score": -0.11840635538101196,
+    "anchor_id": "19",
+    "question": "What is the reason for the worry?"
+  },
+  {
+    "article_id": "1496",
+    "answer_id": "02",
+    "score": 0.9091665148735046,
+    "anchor_id": "01",
+    "question": "What happened when he took Palestinian students to Poland?"
+  },
+  {
+    "article_id": "1496",
+    "answer_id": "03",
+    "score": 0.12522800101174247,
+    "anchor_id": "02",
+    "question": "What was the reaction of the Palestinian students?"
+  },
+  {
+    "article_id": "1496",
+    "answer_id": "04",
+    "score": 0.00011569923824739092,
+    "anchor_id": "03",
+    "question": "What did the professor do after the uproar?"
+  },
+  {
+    "article_id": "1496",
+    "answer_id": "05",
+    "score": 0.4435531979515439,
+    "anchor_id": "03",
+    "question": "What did the Palestinian critics say?"
+  },
+  {
+    "article_id": "1496",
+    "answer_id": "06",
+    "score": -0.011189392634800455,
+    "anchor_id": "05",
+    "question": "What is the professor's background?"
+  },
+  {
+    "article_id": "1496",
+    "answer_id": "07",
+    "score": -0.007803161938985226,
+    "anchor_id": "06",
+    "question": "How did he get the idea of taking students to Auschwitz?"
+  },
+  {
+    "article_id": "1496",
+    "answer_id": "08",
+    "score": -0.3761499524116516,
+    "anchor_id": "05",
+    "question": "What is the reason for the controversy?"
+  },
+  {
+    "article_id": "1496",
+    "answer_id": "09",
+    "score": -0.09302818775177002,
+    "anchor_id": "05",
+    "question": "What is the reason for the criticism?"
+  },
+  {
+    "article_id": "1496",
+    "answer_id": "10",
+    "score": -0.011393921715872612,
+    "anchor_id": "08",
+    "question": "What was the reason for the professor to take the students to Auschwitz?"
+  },
+  {
+    "article_id": "1496",
+    "answer_id": "11",
+    "score": -0.07402241230010986,
+    "anchor_id": "08",
+    "question": "Why is the Holocaust important to Palestinians?"
+  },
+  {
+    "article_id": "1496",
+    "answer_id": "12",
+    "score": -0.0879088044166565,
+    "anchor_id": "11",
+    "question": "How do Palestinians relate to the Holocaust?"
+  },
+  {
+    "article_id": "1496",
+    "answer_id": "13",
+    "score": -0.17686927318572998,
+    "anchor_id": "11",
+    "question": "How do Palestinians view the Holocaust?"
+  },
+  {
+    "article_id": "1496",
+    "answer_id": "14",
+    "score": 0.8558861414591471,
+    "anchor_id": "13",
+    "question": "Why is the Holocaust not taught in Palestinian schools and universities?"
+  },
+  {
+    "article_id": "1496",
+    "answer_id": "15",
+    "score": -0.050322870413462284,
+    "anchor_id": "13",
+    "question": "What has Dajani done to address the issue of Holocaust education?"
+  },
+  {
+    "article_id": "1496",
+    "answer_id": "16",
+    "score": -0.21681952476501465,
+    "anchor_id": "01",
+    "question": "What was the purpose of the trip?"
+  },
+  {
+    "article_id": "1496",
+    "answer_id": "17",
+    "score": -0.17817145586013794,
+    "anchor_id": "16",
+    "question": "What is the funding source of the project?"
+  },
+  {
+    "article_id": "1496",
+    "answer_id": "18",
+    "score": -0.04425936937332153,
+    "anchor_id": "16",
+    "question": "How was the trip to Auschwitz arranged?"
+  },
+  {
+    "article_id": "1496",
+    "answer_id": "19",
+    "score": -0.016986211140950558,
+    "anchor_id": "18",
+    "question": "How were the students selected?"
+  },
+  {
+    "article_id": "1496",
+    "answer_id": "20",
+    "score": 0.43989408867699764,
+    "anchor_id": "19",
+    "question": "How did the students get selected?"
+  },
+  {
+    "article_id": "1497",
+    "answer_id": "04",
+    "score": -0.29042816162109375,
+    "anchor_id": "01",
+    "question": "How many cartridges were found?"
+  },
+  {
+    "article_id": "1497",
+    "answer_id": "06",
+    "score": -0.3215327262878418,
+    "anchor_id": "01",
+    "question": "What is the game about?"
+  },
+  {
+    "article_id": "1497",
+    "answer_id": "07",
+    "score": 0.5480286558469136,
+    "anchor_id": "06",
+    "question": "What did the game enthusiasts feel about the discovery?"
+  },
+  {
+    "article_id": "1497",
+    "answer_id": "08",
+    "score": -0.26881808042526245,
+    "anchor_id": "05",
+    "question": "What happened to the people who were there?"
+  },
+  {
+    "article_id": "1497",
+    "answer_id": "09",
+    "score": -0.00302242570453215,
+    "anchor_id": "08",
+    "question": "How many people were left at the landfill?"
+  },
+  {
+    "article_id": "1497",
+    "answer_id": "10",
+    "score": 0.4014858549291437,
+    "anchor_id": "09",
+    "question": "What were the people doing after the games were found?"
+  },
+  {
+    "article_id": "1497",
+    "answer_id": "12",
+    "score": -0.11715465784072876,
+    "anchor_id": "01",
+    "question": "Who was there to watch the games being found?"
+  },
+  {
+    "article_id": "1497",
+    "answer_id": "13",
+    "score": 0.7628121910951076,
+    "anchor_id": "12",
+    "question": "What did the landfill employee tell the city official about the games?"
+  },
+  {
+    "article_id": "1497",
+    "answer_id": "14",
+    "score": 0.6611690095492772,
+    "anchor_id": "13",
+    "question": "How did they find the games?"
+  },
+  {
+    "article_id": "1497",
+    "answer_id": "15",
+    "score": 0.1212594628334045,
+    "anchor_id": "14",
+    "question": "What did they find?"
+  },
+  {
+    "article_id": "1497",
+    "answer_id": "16",
+    "score": 0.04921388084238221,
+    "anchor_id": "15",
+    "question": "What is the significance of the game to the enthusiasts?"
+  },
+  {
+    "article_id": "1497",
+    "answer_id": "17",
+    "score": 0.2285006046295166,
+    "anchor_id": "01",
+    "question": "What is the documentary about?"
+  },
+  {
+    "article_id": "1497",
+    "answer_id": "18",
+    "score": 0.5728644898959568,
+    "anchor_id": "17",
+    "question": "What company is producing the documentary?"
+  },
+  {
+    "article_id": "1497",
+    "answer_id": "19",
+    "score": -0.15098671780692208,
+    "anchor_id": "16",
+    "question": "What is the urban legend about the game?"
+  },
+  {
+    "article_id": "1497",
+    "answer_id": "20",
+    "score": -0.28801247477531433,
+    "anchor_id": "19",
+    "question": "What does Atari say about the rumor?"
+  },
+  {
+    "article_id": "1498",
+    "answer_id": "02",
+    "score": -0.13482069969177246,
+    "anchor_id": "01",
+    "question": "How many are there now?"
+  },
+  {
+    "article_id": "1498",
+    "answer_id": "03",
+    "score": 0.19986766576766968,
+    "anchor_id": "02",
+    "question": "What is the significance of the bighorn sheep being brought into the Great Western Divide?"
+  },
+  {
+    "article_id": "1498",
+    "answer_id": "04",
+    "score": -0.005910396575927734,
+    "anchor_id": "03",
+    "question": "What does this mean?"
+  },
+  {
+    "article_id": "1498",
+    "answer_id": "05",
+    "score": 0.6246765797788446,
+    "anchor_id": "04",
+    "question": "What does Gammons think about the recovery of the species?"
+  },
+  {
+    "article_id": "1498",
+    "answer_id": "06",
+    "score": -0.1812075972557068,
+    "anchor_id": "05",
+    "question": "How long did it take to make it happen?"
+  },
+  {
+    "article_id": "1498",
+    "answer_id": "07",
+    "score": 0.5323073949132647,
+    "anchor_id": "06",
+    "question": "Who was involved in the research?"
+  },
+  {
+    "article_id": "1498",
+    "answer_id": "08",
+    "score": -0.0541628479957581,
+    "anchor_id": "01",
+    "question": "Why did the sheep number in the thousands?"
+  },
+  {
+    "article_id": "1498",
+    "answer_id": "09",
+    "score": -0.2853401303291321,
+    "anchor_id": "01",
+    "question": "What was the first time the species was protected?"
+  },
+  {
+    "article_id": "1498",
+    "answer_id": "10",
+    "score": 0.08854795826805961,
+    "anchor_id": "09",
+    "question": "When did the federal government list the bighorns?"
+  },
+  {
+    "article_id": "1498",
+    "answer_id": "11",
+    "score": 0.7660107612609863,
+    "anchor_id": "10",
+    "question": "What was the concern about the bighorns?"
+  },
+  {
+    "article_id": "1498",
+    "answer_id": "12",
+    "score": 0.5515704830487569,
+    "anchor_id": "11",
+    "question": "What is the current state of the bighorn sheep?"
+  },
+  {
+    "article_id": "1498",
+    "answer_id": "13",
+    "score": -0.15166860818862915,
+    "anchor_id": "01",
+    "question": "What was the first step in the recovery process?"
+  },
+  {
+    "article_id": "1498",
+    "answer_id": "14",
+    "score": 0.07813246382607353,
+    "anchor_id": "07",
+    "question": "What were the designated areas for the bighorns?"
+  },
+  {
+    "article_id": "1498",
+    "answer_id": "15",
+    "score": 0.3830780122015211,
+    "anchor_id": "14",
+    "question": "What are the next areas to be repopulated?"
+  },
+  {
+    "article_id": "1498",
+    "answer_id": "16",
+    "score": 0.09935039281845093,
+    "anchor_id": "15",
+    "question": "What percentage of the designated areas are in the two parks?"
+  },
+  {
+    "article_id": "1498",
+    "answer_id": "17",
+    "score": -0.3165024518966675,
+    "anchor_id": "01",
+    "question": "What was the first recovery effort?"
+  },
+  {
+    "article_id": "1498",
+    "answer_id": "18",
+    "score": 0.7443032066027323,
+    "anchor_id": "17",
+    "question": "What was the source of the bighorn population that was recovered?"
+  },
+  {
+    "article_id": "1498",
+    "answer_id": "19",
+    "score": 0.13141592524268408,
+    "anchor_id": "18",
+    "question": "How do they get the sheep to the new areas?"
+  },
+  {
+    "article_id": "1498",
+    "answer_id": "20",
+    "score": 0.06854946613311763,
+    "anchor_id": "14",
+    "question": "How long will it take to repopulate 12 herds?"
+  },
+  {
+    "article_id": "1499",
+    "answer_id": "02",
+    "score": 0.04194861650466919,
+    "anchor_id": "01",
+    "question": "What is the case about?"
+  },
+  {
+    "article_id": "1499",
+    "answer_id": "03",
+    "score": -0.13878756761550903,
+    "anchor_id": "01",
+    "question": "What happened to David Leon Riley?"
+  },
+  {
+    "article_id": "1499",
+    "answer_id": "04",
+    "score": 0.19422483444213867,
+    "anchor_id": "03",
+    "question": "What will the justices do?"
+  },
+  {
+    "article_id": "1499",
+    "answer_id": "05",
+    "score": -0.05566316180759001,
+    "anchor_id": "04",
+    "question": "What will the outcome of the case do?"
+  },
+  {
+    "article_id": "1499",
+    "answer_id": "06",
+    "score": 0.009073252027684942,
+    "anchor_id": "05",
+    "question": "What is the significance of the smartphone in the case?"
+  },
+  {
+    "article_id": "1499",
+    "answer_id": "07",
+    "score": -0.37440407276153564,
+    "anchor_id": "06",
+    "question": "What should be done with the data?"
+  },
+  {
+    "article_id": "1499",
+    "answer_id": "08",
+    "score": -0.2164575457572937,
+    "anchor_id": "07",
+    "question": "Who is Riley's lawyer?"
+  },
+  {
+    "article_id": "1499",
+    "answer_id": "09",
+    "score": -0.014744400978088379,
+    "anchor_id": "08",
+    "question": "What are the implications of this case?"
+  },
+  {
+    "article_id": "1499",
+    "answer_id": "10",
+    "score": -0.351493239402771,
+    "anchor_id": "06",
+    "question": "What are the potential consequences of the court's decision?"
+  },
+  {
+    "article_id": "1499",
+    "answer_id": "11",
+    "score": 0.3979379296302795,
+    "anchor_id": "10",
+    "question": "What do law enforcement officials think about the privacy advocates' fear?"
+  },
+  {
+    "article_id": "1499",
+    "answer_id": "12",
+    "score": -0.4461594820022583,
+    "anchor_id": "10",
+    "question": "What are the implications of the court's decision?"
+  },
+  {
+    "article_id": "1499",
+    "answer_id": "14",
+    "score": -0.12297946214675903,
+    "anchor_id": "01",
+    "question": "What will happen on Tuesday?"
+  },
+  {
+    "article_id": "1499",
+    "answer_id": "15",
+    "score": 0.17886364459991455,
+    "anchor_id": "01",
+    "question": "What are the cases about?"
+  },
+  {
+    "article_id": "1499",
+    "answer_id": "16",
+    "score": 0.10748309748513363,
+    "anchor_id": "15",
+    "question": "Why is the Riley case important?"
+  },
+  {
+    "article_id": "1499",
+    "answer_id": "17",
+    "score": -0.11708956956863403,
+    "anchor_id": "01",
+    "question": "What happened to Riley?"
+  },
+  {
+    "article_id": "1499",
+    "answer_id": "18",
+    "score": -0.4289286732673645,
+    "anchor_id": "17",
+    "question": "What was Riley doing?"
+  },
+  {
+    "article_id": "1499",
+    "answer_id": "19",
+    "score": -0.07288097483771183,
+    "anchor_id": "18",
+    "question": "What did California officials call him?"
+  },
+  {
+    "article_id": "1499",
+    "answer_id": "20",
+    "score": 0.48345667975289486,
+    "anchor_id": "17",
+    "question": "What else did the police find?"
+  },
+  {
+    "article_id": "1500",
+    "answer_id": "02",
+    "score": 0.2491236925125122,
+    "anchor_id": "01",
+    "question": "How much of the currency is the greenback?"
+  },
+  {
+    "article_id": "1500",
+    "answer_id": "03",
+    "score": 0.03518497943878174,
+    "anchor_id": "02",
+    "question": "Why is the $2 bill so unpopular?"
+  },
+  {
+    "article_id": "1500",
+    "answer_id": "04",
+    "score": -0.24537783861160278,
+    "anchor_id": "03",
+    "question": "What is John Bennardo doing?"
+  },
+  {
+    "article_id": "1500",
+    "answer_id": "05",
+    "score": 0.0019942467862908986,
+    "anchor_id": "04",
+    "question": "What does John Bennardo say about the $2 bill?"
+  },
+  {
+    "article_id": "1500",
+    "answer_id": "06",
+    "score": 0.011172686304364854,
+    "anchor_id": "05",
+    "question": "What is the reaction of people when they see a $2 bill?"
+  },
+  {
+    "article_id": "1500",
+    "answer_id": "07",
+    "score": 0.10450094938278198,
+    "anchor_id": "06",
+    "question": "What is the story of the two?"
+  },
+  {
+    "article_id": "1500",
+    "answer_id": "08",
+    "score": 0.11774932146072392,
+    "anchor_id": "07",
+    "question": "What is the story behind the $2 bill?"
+  },
+  {
+    "article_id": "1500",
+    "answer_id": "09",
+    "score": 0.16783065795898433,
+    "anchor_id": "08",
+    "question": "What else is the two dollar bill used for?"
+  },
+  {
+    "article_id": "1500",
+    "answer_id": "10",
+    "score": 0.6469851930936177,
+    "anchor_id": "09",
+    "question": "Why is the $2 bill used in some strip clubs?"
+  },
+  {
+    "article_id": "1500",
+    "answer_id": "11",
+    "score": -0.02762338790026575,
+    "anchor_id": "03",
+    "question": "How did Bennardo get interested in the $2 bill?"
+  },
+  {
+    "article_id": "1500",
+    "answer_id": "12",
+    "score": -0.107628689871894,
+    "anchor_id": "11",
+    "question": "How many $2 bills does Bennardo have?"
+  },
+  {
+    "article_id": "1500",
+    "answer_id": "13",
+    "score": 0.04643417256219051,
+    "anchor_id": "12",
+    "question": "What was the reason behind Bennardo's saving of the $2 bills?"
+  },
+  {
+    "article_id": "1500",
+    "answer_id": "14",
+    "score": 0.3668414354324341,
+    "anchor_id": "13",
+    "question": "What happened next?"
+  },
+  {
+    "article_id": "1500",
+    "answer_id": "15",
+    "score": 0.13119524717330933,
+    "anchor_id": "14",
+    "question": "Who else is involved in the documentary?"
+  },
+  {
+    "article_id": "1500",
+    "answer_id": "16",
+    "score": -0.2247758416029123,
+    "anchor_id": "15",
+    "question": "What is the reason Amy Byer Shainman keeps the $2 bill?"
+  },
+  {
+    "article_id": "1500",
+    "answer_id": "17",
+    "score": -0.0659384039732126,
+    "anchor_id": "16",
+    "question": "What is the reason behind the mystique surrounding the $2 bill?"
+  },
+  {
+    "article_id": "1500",
+    "answer_id": "18",
+    "score": 0.1340077689715794,
+    "anchor_id": "14",
+    "question": "How did the documentary get funded?"
+  },
+  {
+    "article_id": "1500",
+    "answer_id": "19",
+    "score": -0.003931105136871338,
+    "anchor_id": "18",
+    "question": "What did Bennardo do after raising money?"
+  },
+  {
+    "article_id": "1500",
+    "answer_id": "20",
+    "score": 0.2653782367706299,
+    "anchor_id": "19",
+    "question": "What did Bennardo do at some of his stops?"
+  }
+]

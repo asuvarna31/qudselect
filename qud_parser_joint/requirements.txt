@@ -1,0 +1,25 @@
+torch
+sentencepiece
+datasets
+deepspeed
+accelerate
+peft>=0.4.0
+bitsandbytes>=0.41.1
+evaluate==0.4.0
+tokenizers==0.13.3
+protobuf==3.20.0
+transformers>=4.28.1
+openai
+tiktoken
+rouge_score
+wandb
+gradio
+markupsafe==2.0.1
+termcolor
+jsonlines
+mecab-python3
+unidic-lite
+einops
+# flash-attn
+# auto-gptq
+fire
